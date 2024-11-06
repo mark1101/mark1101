@@ -2,7 +2,7 @@
 
 - Graduado em Ciência da Computação pela Universidade Estadual do Centro Oeste - UNICENTRO
 - Atualmente trabalho como Desenvolvedor Web Full-Stack e Tech Lead;
-- Laravel / Vue Js / AWS 
+- Laravel / VueJs / AWS / Docker / GO 
 - Estudante de Desenvolvimento Mobile;
 - Sinta-se a vontade para circular pelo perfil e entrar em contato.
 
